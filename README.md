@@ -1,10 +1,16 @@
-![Logo Biatais](./imagens/icon-biatais.png)
+![Logo Biatais](./images/icon-biatais.png)
 
 # Biatais Front-end
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
+Documentação do projeto Biatais.
 
-## Development server
+## Tecnologias uilizadas
+
+### UX / UI
+
+![Logo Biatais](./images/logo-adobe-color.png)
+![Logo Biatais](./images/logo-figma.png)
+
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
