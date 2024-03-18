@@ -9,7 +9,7 @@ Documentação do projeto Biatais.
 ### UX / UI
 
 ![Logo Biatais](./images/logo-adobe-color.png)
-![Logo Biatais](./images/logo-figma.png)
+![Logo Biatais](./images/logo-figma.webp)
 
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
