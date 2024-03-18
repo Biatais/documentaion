@@ -1,4 +1,4 @@
-![Logo Biatais](./imagens/icon-biatais.png)
+![Logo Biatais](./images/icon-biatais.png)
 
 # Biatais Front-end
 
