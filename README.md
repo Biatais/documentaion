@@ -7,9 +7,8 @@ Documentação do projeto Biatais.
 ## Tecnologias uilizadas
 
 ### UX / UI
-
-![Logo Biatais](./images/logo-adobe-color.png)
-![Logo Biatais](./images/logo-figma.webp)
+<img src="./images/logo-adobe-color.png" alt="Texto Alt ernativo" width="40">
+<img src="./images/logo-figma.webp" alt="Texto Alt ernativo" width="40">
 
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
